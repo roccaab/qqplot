@@ -32,8 +32,7 @@ Both files can be added to QGIS for testing the plugin:
 2. Click on "Layer" in the menu.
 3. Select "Add Layer" and then "Add Delimited Text Layer."
 4. Browse and select the desired CSV file (e.g., NormalData_1000.csv or UniformData_1000.csv).
-5. Set the appropriate parameters, such as the X and Y fields.
-6. Click "Add" to add the data to your QGIS project.
+5. Click "Add" to add the data to your QGIS project.
 
 You can now use these synthetic datasets for testing your plugin in QGIS.
 
