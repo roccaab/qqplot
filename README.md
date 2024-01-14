@@ -3,14 +3,12 @@
 
  In the Synthetic Data Folder directory, you can find synthetic data to test the plugin.
 
-*To enable the clustering function, you need to install scikit-learn. Follow these steps:*
+#To enable the clustering function, you need to install scikit-learn. Follow these steps:#
 
-Open the OSGeo4W Shell.
+1. Open the OSGeo4W Shell.
 
-Type the following command and press Enter:
+2. Type the following command and press Enter:
 
-Copy code
 pip install -U scikit-learn
-Restart QGIS.
 
-Now you can use the clustering function in the plugin.
+3. Now you can use the clustering function in the plugin.
