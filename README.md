@@ -4,7 +4,7 @@
 In the Synthetic Data Folder directory, you can find synthetic data to test the plugin.
 
 
-## Clustering funztion
+## Clustering function
 **To enable the clustering function, you need to install scikit-learn. Follow these steps:**
 
 1. Open the OSGeo4W Shell.
