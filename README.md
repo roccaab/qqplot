@@ -5,7 +5,10 @@ In the Synthetic Data Folder directory, you can find synthetic data to test the 
 
 
 ## Clustering function
-**To enable the clustering function, you need to install scikit-learn. Follow these steps:**
+
+**To enable the clustering function, you need to install scikit-learn (if not already installed) an open source library for predictive data analysis.** 
+
+Follow these steps :
 
 1. Open the OSGeo4W Shell;
 
