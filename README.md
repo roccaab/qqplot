@@ -1,7 +1,7 @@
 # Q-Q Plot
-A Q-Q Plot assesses the quantile similarity between a dataset and a theoretical distribution (Uniform or Normal in this version). It provides a visual and more intuitive approach to compare the data distribution of a sample with either a theoretical distribution or that of a second sample.
+A **Q-Q Plot** assesses the quantile similarity between a dataset and a theoretical distribution (Uniform or Normal in this version). It provides a visual and more intuitive approach to compare the data distribution of a sample with either a theoretical distribution or that of a second sample.
 
-It illustrates observed quantiles plotted against expected quantiles from the distribution. This implementation serves as a **QGIS plugin** designed for geospatial data analysis, incorporating a **k-means** clustering function.
+It illustrates observed quantiles plotted against expected quantiles from the distribution. This implementation serves as a **QGIS plugin** designed for geospatial data analysis, incorporating a **k-means clustering function**.
 
 Q-Q Plot representations allow for:
 
