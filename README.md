@@ -12,7 +12,7 @@ Q-Q Plot representations allow for:
 3. In the case of comparing the sample with a theoretical distribution, enabling the estimation of parameters that the theoretical distribution should possess to better describe the trend of the sample, such as standard deviation and mean.
 
 
-In the Synthetic Data Folder directory, you can find synthetic data to test the plugin; in synthetic datasets, you can find values with a normal, uniform, and bimodal Gaussian distribution.
+In the Synthetic Data Folder directory, you can find synthetic data to test the plugin (normal, uniform, and bimodal Gaussian distribution data).
 
 
 ## Clustering function
