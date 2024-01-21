@@ -17,6 +17,8 @@ In the Synthetic Data Folder directory, you can find synthetic data to test the 
 
 ## Clustering function
 
+If the selected layer does not have the 'x' and 'y' fields as coordinates (regionalized variable), and an additional numerical field on which to apply the Q-Q Plot, the clustering function will be disabled.*
+
 **To enable the clustering function, you need to install scikit-learn (if not already installed) an open source library for predictive data analysis.** 
 
 Follow these steps :
@@ -30,5 +32,11 @@ Follow these steps :
 3. Restart QGIS;
 
 4. Now you can use the clustering function in the plugin.
+
+To list all installed packages along with their versions:
+
+`pip list
+
+Make sure to use OSGeo4W Shell before running these commands.
    
-If the selected layer does not have the 'x' and 'y' fields as coordinates, and an additional numerical field on which to apply the Q-Q Plot, the clustering function will be disabled.*
+
