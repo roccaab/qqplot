@@ -3,7 +3,7 @@ A Q-Q Plot assesses the quantile similarity between a dataset and a theoretical 
 
 It illustrates observed quantiles plotted against expected quantiles from the distribution. This implementation serves as a **QGIS plugin** designed for geospatial data analysis, incorporating a k-means clustering function.
 
-Such representations allow for:
+Q-Q Plot representations allow for:
 
 1. Verifying whether the experimental data follows the trend of a theoretical distribution or a second sample.
 
