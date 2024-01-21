@@ -35,7 +35,7 @@ Follow these steps :
 
 To list all installed packages along with their versions:
 
-`pip list
+`pip list`
 
 Make sure to use OSGeo4W Shell before running these commands.
    
