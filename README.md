@@ -29,6 +29,8 @@ Follow these steps :
 
 `pip install -U scikit-learn`
 
+wait for the software package to be installed.
+
 3. Restart QGIS;
 
 4. Now you can use the clustering function in the plugin.
